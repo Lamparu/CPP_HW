@@ -1,0 +1,4 @@
+Theese are 3 labs: 
+1. To understand the syntaxis of C++
+2. To create the first class
+3. To use reloaded operators and dynamic memory
